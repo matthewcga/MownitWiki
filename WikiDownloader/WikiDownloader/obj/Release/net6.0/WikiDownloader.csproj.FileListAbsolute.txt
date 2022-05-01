@@ -1,0 +1,15 @@
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\bin\Release\net6.0\WikiDownloader.exe
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\bin\Release\net6.0\WikiDownloader.deps.json
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\bin\Release\net6.0\WikiDownloader.runtimeconfig.json
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\bin\Release\net6.0\WikiDownloader.dll
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\bin\Release\net6.0\WikiDownloader.pdb
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.csproj.AssemblyReference.cache
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.AssemblyInfoInputs.cache
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.AssemblyInfo.cs
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.csproj.CoreCompileInputs.cache
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.dll
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\refint\WikiDownloader.dll
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.pdb
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\WikiDownloader.genruntimeconfig.cache
+C:\Users\superuser\Desktop\WikiDownloader\WikiDownloader\obj\Release\net6.0\ref\WikiDownloader.dll

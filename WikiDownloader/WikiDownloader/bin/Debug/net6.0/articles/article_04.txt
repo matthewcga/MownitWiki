@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Battle of Orewin Bridge - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"55b5dd72-f5ff-4853-8741-0b50aefe9090","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Battle_of_Orewin_Bridge","wgTitle":"Battle of Orewin Bridge","wgCurRevisionId":1080132000,"wgRevisionId":1080132000,"wgArticleId":3500188,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from April 2013","Use British English from April 2013","Articles needing additional references from December 2018","All articles needing additional references",
+"Coordinates on Wikidata","Battles involving Wales","Battles involving England","1282 in Wales","13th century in Wales","Conflicts in 1282","England–Wales relations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Battle_of_Orewin_Bridge","wgRelevantArticleId":3500188,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgCoordinates":{"lat":52.1519,"lon":-3.4617},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,
+"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q1488817","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":false,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/1200px-Llywelyn5.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1800"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/800px-Llywelyn5.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1200"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/640px-Llywelyn5.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="960"/>
+<meta property="og:title" content="Battle of Orewin Bridge - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Battle_of_Orewin_Bridge"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Battle_of_Orewin_Bridge"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Battle_of_Orewin_Bridge rootpage-Battle_of_Orewin_Bridge skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Battle of Orewin Bridge</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">13th c. battle between the English and Welsh</div>
+<p class="mw-empty-elt">
+
+</p>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Battle+of+Orewin+Bridge%22">"Battle of Orewin Bridge"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Battle+of+Orewin+Bridge%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Battle+of+Orewin+Bridge%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Battle+of+Orewin+Bridge%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Battle+of+Orewin+Bridge%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Battle+of+Orewin+Bridge%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">December 2018</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r963460841">@media all and (min-width:720px){.mw-parser-output .desktop-float-right{box-sizing:border-box;float:right;clear:right}}.mw-parser-output .infobox.vevent .status>p:first-child{margin:0}</style><table class="infobox vevent" style="width:25.5em;border-spacing:2px;"><tbody><tr><th class="summary" colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Battle of Orewin Bridge</th></tr><tr><td colspan="2" style="text-align:center;border-bottom:1px solid #aaa;line-height:1.5em;"><a href="/wiki/File:Llywelyn5.jpg" class="image" title="alt text"><img alt="alt text" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/200px-Llywelyn5.jpg" decoding="async" width="200" height="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/300px-Llywelyn5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/400px-Llywelyn5.jpg 2x" data-file-width="2336" data-file-height="3504" /></a><br />The Llywelyn Monument at Cilmeri which marks the battle of Orewin Bridge</td></tr><tr><td colspan="2"><table style="width:100%;margin:0;padding:0;border:0;display:inline-table"><tbody><tr><th style="padding-right:1em">Date</th><td>11 December 1282</td></tr><tr><th style="padding-right:1em">Location</th><td><div class="location">near <a href="/wiki/Cilmeri" title="Cilmeri">Cilmeri</a></div><style data-mw-deduplicate="TemplateStyles:r1073938472">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Battle_of_Orewin_Bridge&amp;params=52.1519_N_3.4617_W_type:event_region:GB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°09′07″N</span> <span class="longitude">3°27′42″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.1519°N 3.4617°W</span><span style="display:none">&#xfeff; / <span class="geo">52.1519; -3.4617</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1073938472"/><span class="plainlinks nourlexpansion"><a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Battle_of_Orewin_Bridge&amp;params=52.1519_N_3.4617_W_type:event_region:GB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°09′07″N</span> <span class="longitude">3°27′42″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.1519°N 3.4617°W</span><span style="display:none">&#xfeff; / <span class="geo">52.1519; -3.4617</span></span></span></a></span></span></span></td></tr><tr><th style="padding-right:1em">Result</th><td class="status">
+English victory</td></tr></tbody></table></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Belligerents</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+<a href="/wiki/Kingdom_of_England" title="Kingdom of England">Kingdom of England</a><br /><a href="/wiki/Powys_Wenwynwyn" title="Powys Wenwynwyn">Powys Wenwynwyn</a></td><td style="width:50%;padding-left:0.25em">
+<a href="/wiki/Principality_of_Wales" title="Principality of Wales">Principality of Wales</a></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Commanders and leaders</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+<a href="/wiki/Roger_Lestrange" title="Roger Lestrange">Roger l'Estrange</a><br />John Giffard<br />Edmund Mortimer<br /><a href="/wiki/Gruffydd_ap_Gwenwynwyn" title="Gruffydd ap Gwenwynwyn">Gruffydd ap Gwenwynwyn</a><br /><a href="/wiki/Owen_de_la_Pole" title="Owen de la Pole">Owen de la Pole</a></td><td style="width:50%;padding-left:0.25em">
+<a href="/wiki/Llywelyn_ap_Gruffudd" title="Llywelyn ap Gruffudd">Llywelyn ap Gruffudd</a>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:&#39;Times New Roman&#39;,&#39;Old English Text MT&#39;,serif"><b>&#8224;</b></span></a></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Strength</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+5,000 Infantry<br />1,300 Heavy Cavalry</td><td style="width:50%;padding-left:0.25em">
+7,000 Infantry<br />160 'Teulu' (Household)</td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Casualties and losses</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+Unknown</td><td style="width:50%;padding-left:0.25em">
+Around 2,000</td></tr></tbody></table>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Welsh_Rebellion_of_1282" style="margin:0;float:right;clear:right;width:25.5em;margin-bottom:0.5em;margin-left:1em;;padding:3px"><table class="nowraplinks navbox-vertical mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#C3D6EF;"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Campaignbox_1282_Welsh_Rebellion" title="Template:Campaignbox 1282 Welsh Rebellion"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_1282_Welsh_Rebellion" title="Template talk:Campaignbox 1282 Welsh Rebellion"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Campaignbox_1282_Welsh_Rebellion&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Welsh_Rebellion_of_1282" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Llywelyn_ap_Gruffudd" title="Llywelyn ap Gruffudd"><span class="wrap">Welsh Rebellion of 1282</span></a></span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Hawarden_Castle_(medieval)" title="Hawarden Castle (medieval)">Hawarden Castle</a></li>
+<li><a href="/wiki/Aberystwyth_Castle" title="Aberystwyth Castle">Aberystwyth Castle</a></li>
+<li><a href="/wiki/Carreg_Cennen_Castle" title="Carreg Cennen Castle">Carreg Cennen Castle</a></li>
+<li><a href="/wiki/Battle_of_Llandeilo_Fawr" title="Battle of Llandeilo Fawr">Llandeilo Fawr</a></li>
+<li><a href="/wiki/Battle_of_Moel-y-don" title="Battle of Moel-y-don">Moel-y-don</a></li>
+<li><a class="mw-selflink selflink">Cilmeri</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p>The <b>Battle of Orewin Bridge</b> (also known as the <b>Battle of Irfon Bridge</b>) was fought between <a href="/wiki/England" title="England">English</a> (led by the <a href="/wiki/Welsh_Marches" title="Welsh Marches">Marcher Lords</a>) and <a href="/wiki/Wales" title="Wales">Welsh</a> armies on 11 December 1282 near <a href="/wiki/Builth_Wells" title="Builth Wells">Builth Wells</a> in mid-Wales. It was a decisive defeat for the Welsh because their leader, <a href="/wiki/Llywelyn_ap_Gruffudd" title="Llywelyn ap Gruffudd">Llywelyn ap Gruffudd</a> was killed, and this effectively ended the autonomy of Wales.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_of_the_War"><span class="tocnumber">1</span> <span class="toctext">Background of the War</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Campaign_up_to_December"><span class="tocnumber">2</span> <span class="toctext">Campaign up to December</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#The_battle"><span class="tocnumber">3</span> <span class="toctext">The battle</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Aftermath"><span class="tocnumber">4</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sources"><span class="tocnumber">5</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background_of_the_War">Background of the War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit&amp;section=1" title="Edit section: Background of the War">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Conquest_of_Wales_by_Edward_I" title="Conquest of Wales by Edward I">Conquest of Wales by Edward I</a></div>
+<p>Llywelyn had already fought a war against <a href="/wiki/Edward_I_of_England" title="Edward I of England">Edward I of England</a> in 1277. Edward had organised a large full-time army with which he overran all North Wales as far west as the <a href="/wiki/Conwy_River" class="mw-redirect" title="Conwy River">Conwy River</a>, and a fleet with which he captured <a href="/wiki/Anglesey" title="Anglesey">Anglesey</a>, depriving the Welsh of much of their grain. Llywelyn was forced to come to humiliating terms, and ceded large areas of Wales to England.
+</p><p>Over the five years which followed, there was continued tension between Llywelyn and Edward over various lawsuits, and increasing unrest between the Welsh people and their English administrators in the newly transferred areas. The revolt was actually begun in 1282 by Llywelyn's brother <a href="/wiki/Dafydd_ap_Gruffydd" title="Dafydd ap Gruffydd">Dafydd</a>, who had sided with Edward five years earlier but now captured <a href="/wiki/Hawarden_Castle_(medieval)" title="Hawarden Castle (medieval)">Hawarden Castle</a> and slaughtered its garrison. This was followed by uprisings in many parts of Wales, and Llywelyn declared war on Edward on behalf of all Welsh.
+</p>
+<h2><span class="mw-headline" id="Campaign_up_to_December">Campaign up to December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit&amp;section=2" title="Edit section: Campaign up to December">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Edward repeated his tactics of the previous war, laboriously occupying North Wales as far as the Vale of Conwy and occupying Anglesey, while sending armies into southern and central Wales to overawe or subdue Llewelyn's allies and potential supporters. At the <a href="/wiki/Battle_of_Llandeilo_Fawr" title="Battle of Llandeilo Fawr">Battle of Llandeilo Fawr</a> the English army attacking south Wales was ambushed and destroyed by the southern Welsh. On 6 November, Edward's lieutenant in Anglesey, <a href="/wiki/Luke_de_Tany" title="Luke de Tany">Luke de Tany</a>, launched a premature attack across a <a href="/wiki/Bridge_of_boats" class="mw-redirect" title="Bridge of boats">bridge of boats</a> which spanned the <a href="/wiki/Menai_Strait" title="Menai Strait">Menai Strait</a>. His force was ambushed, cut off and slaughtered at the <a href="/wiki/Battle_of_Moel-y-don" title="Battle of Moel-y-don">Battle of Moel-y-don</a>.
+</p><p>These unexpected reverses undoubtedly set Edward back several months. He was forced to pause to raise fresh armies and supplies. Llywelyn took advantage of the respite by making an expedition into mid-Wales, to inspire and rally support. This was the territory nominally ruled by <a href="/wiki/Marcher_Lord" title="Marcher Lord">Marcher</a> Lords, who enjoyed considerable independence from Edward. Some were wavering and prepared to support Llywelyn. However, three of them, <a href="/wiki/Roger_Lestrange" title="Roger Lestrange">Roger l'Estrange</a>, <a href="/wiki/John_Giffard_(died_1299)" class="mw-redirect" title="John Giffard (died 1299)">John Giffard</a> and <a href="/wiki/Edmund_Mortimer,_2nd_Baron_Mortimer" class="mw-redirect" title="Edmund Mortimer, 2nd Baron Mortimer">Edmund Mortimer</a> were staunch supporters of Edward, and were in the field in mid-Wales with an army consisting mainly of archers from Shropshire and some heavy cavalry, as well as troops donated to them by the Welsh lord <a href="/wiki/Gruffydd_ap_Gwenwynwyn" title="Gruffydd ap Gwenwynwyn">Gruffydd ap Gwenwynwyn</a>, who was an old enemy of Llywelyn. The English are thought to have had an army consisting of around 5000 infantrymen and 1300 heavy cavalry.
+</p>
+<h2><span class="mw-headline" id="The_battle">The battle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit&amp;section=3" title="Edit section: The battle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 11 December, Llywelyn's army occupied a hillside north of the <a href="/w/index.php?title=Irfon_River&amp;action=edit&amp;redlink=1" class="new" title="Irfon River (page does not exist)">Irfon River</a> near the village of <a href="/wiki/Cilmeri" title="Cilmeri">Cilmeri</a>, placed to repel any attack from the south across Orewin Bridge. The army is thought to have consisted of a few thousand spearmen and javelinmen from North Wales, with some men-at-arms from Llywelyn's own <i>teulu</i> (household), and some local archers from <a href="/wiki/Brecon" title="Brecon">Brecon</a> (who had betrayed their former English allies and joined Llywelyn, having been disappointed in the English failure at the Battle of Llandeilo Fawr). Altogether, the army is thought to have added up to around 7000 infantry and 160 Cavalry (Llywelyn's Teulu). Llywelyn himself was not present, having gone to speak with local leaders (possibly at Builth Castle).
+</p><p>A local inhabitant had told the Marchers about a ford across the Irfon two miles downstream, near its confluence with the <a href="/wiki/River_Wye" title="River Wye">River Wye</a>, and they sent most of their archers across it to attack the Welsh in the flank. The Welsh army turned to face them, and the English mounted men-at-arms charged across the now undefended bridge.
+</p><p>Meanwhile, the English archers shot into the Welsh spear <a href="/wiki/Sheltron" class="mw-redirect" title="Sheltron">schiltrons</a>, weakening and disorganising the troops. The English heavy cavalry then charged the rear of the army. The leaderless and demoralised Welsh were routed.
+</p><p>As the Welsh army fled, Llywelyn returned in haste. On the outskirts of the fighting, he was attacked and cut down by an English man-at-arms named Stephen de Frankton, an English <a href="/w/index.php?title=Centenar&amp;action=edit&amp;redlink=1" class="new" title="Centenar (page does not exist)">centenar</a> from <a href="/wiki/Ellesmere,_Shropshire" title="Ellesmere, Shropshire">Ellesmere, Shropshire</a>.
+</p>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit&amp;section=4" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Llywelyn's body was not recognised until the next day (he had probably gone in secret or incognito to his meeting, and would therefore not have worn any surcoat or other heraldic device). His head was cut off, and taken to London to be exhibited. He left only an infant daughter, <a href="/wiki/Gwenllian_of_Wales" title="Gwenllian of Wales">Gwenllian of Wales</a>. Leadership of the Welsh fell to Dafydd, who led a guerrilla resistance for some months but was soon betrayed, captured and executed as a traitor. Edward was able to formally end the existence of an organised resistance to English rule in the Welsh regions.
+</p>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit&amp;section=5" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Famous Welsh Battles</i>, Philip Warner, Fontana, 1977, <style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-634151-9" title="Special:BookSources/0-00-634151-9">0-00-634151-9</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1365
+Cached time: 20220420141913
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.418 seconds
+Real time usage: 0.541 seconds
+Preprocessor visited node count: 869/1000000
+Post‐expand include size: 32110/2097152 bytes
+Template argument size: 1741/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6041/5000000 bytes
+Lua time usage: 0.196/10.000 seconds
+Lua memory usage: 2995277/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  459.050      1 -total
+ 21.87%  100.378      1 Template:Short_description
+ 20.99%   96.338      1 Template:Campaignbox_1282_Welsh_Rebellion
+ 20.49%   94.061      1 Template:Campaignbox
+ 19.92%   91.423      1 Template:Military_navigation
+ 17.49%   80.283      1 Template:ISBN
+ 13.48%   61.879      1 Template:Infobox_military_conflict
+ 13.14%   60.299      1 Template:Refimprove
+ 11.96%   54.896      1 Template:Catalog_lookup_link
+ 11.80%   54.146      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3500188-0!canonical and timestamp 20220420141912 and revision id 1080132000. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Battle_of_Orewin_Bridge&amp;oldid=1080132000">https://en.wikipedia.org/w/index.php?title=Battle_of_Orewin_Bridge&amp;oldid=1080132000</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Battles_involving_Wales" title="Category:Battles involving Wales">Battles involving Wales</a></li><li><a href="/wiki/Category:Battles_involving_England" title="Category:Battles involving England">Battles involving England</a></li><li><a href="/wiki/Category:1282_in_Wales" title="Category:1282 in Wales">1282 in Wales</a></li><li><a href="/wiki/Category:13th_century_in_Wales" title="Category:13th century in Wales">13th century in Wales</a></li><li><a href="/wiki/Category:Conflicts_in_1282" title="Category:Conflicts in 1282">Conflicts in 1282</a></li><li><a href="/wiki/Category:England%E2%80%93Wales_relations" title="Category:England–Wales relations">England–Wales relations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2013" title="Category:Use dmy dates from April 2013">Use dmy dates from April 2013</a></li><li><a href="/wiki/Category:Use_British_English_from_April_2013" title="Category:Use British English from April 2013">Use British English from April 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2018" title="Category:Articles needing additional references from December 2018">Articles needing additional references from December 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<label id="p-personal-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Battle+of+Orewin+Bridge" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Battle+of+Orewin+Bridge" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<label id="p-namespaces-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Battle_of_Orewin_Bridge" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Battle_of_Orewin_Bridge" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<label id="p-views-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Views</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Battle_of_Orewin_Bridge"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<label id="p-cactions-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<label id="p-navigation-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Navigation</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" icon="home" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" icon="die" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<label id="p-interaction-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Contribute</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" icon="help" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" icon="recentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<label id="p-tb-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Battle_of_Orewin_Bridge" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Battle_of_Orewin_Bridge" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;oldid=1080132000" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Battle_of_Orewin_Bridge&amp;id=1080132000&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1488817" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Print/export</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Battle_of_Orewin_Bridge&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Battle_of_Orewin_Bridge&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<label id="p-lang-label" aria-label="" class="vector-menu-heading "  >
+		<span class="vector-menu-heading-label">Languages</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Schlacht_von_Orewin_Bridge" title="Schlacht von Orewin Bridge – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Bataille_d%27Orewin_Bridge" title="Bataille d&#039;Orewin Bridge – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1488817#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 30 March 2022, at 13:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Battle_of_Orewin_Bridge&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.418","walltime":"0.541","ppvisitednodes":{"value":869,"limit":1000000},"postexpandincludesize":{"value":32110,"limit":2097152},"templateargumentsize":{"value":1741,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6041,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  459.050      1 -total"," 21.87%  100.378      1 Template:Short_description"," 20.99%   96.338      1 Template:Campaignbox_1282_Welsh_Rebellion"," 20.49%   94.061      1 Template:Campaignbox"," 19.92%   91.423      1 Template:Military_navigation"," 17.49%   80.283      1 Template:ISBN"," 13.48%   61.879      1 Template:Infobox_military_conflict"," 13.14%   60.299      1 Template:Refimprove"," 11.96%   54.896      1 Template:Catalog_lookup_
