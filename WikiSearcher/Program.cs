@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WikiSearcher
@@ -19,23 +16,23 @@ namespace WikiSearcher
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             VM = new Form();
-
             SetSearchElements(false);
             SetFileElements(false);
             ChangeStatus("no database");
             Application.Run(VM);
         }
 
+
         public static void ChangeStatus(string status)
-        {
-            VM.Status.Text = status;
-        }
+        { VM.Status.Text = status; }
+
 
         public static void SetSearchElements(bool setTo)
         {
             VM.SearchBtn.Enabled = setTo;
             VM.Search.Enabled = setTo;
         }
+
 
         public static void SetFileElements(bool setTo)
         {

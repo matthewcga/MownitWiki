@@ -38,8 +38,7 @@
             this.WikiBtn = new System.Windows.Forms.Button();
             this.performanceCounter1 = new System.Diagnostics.PerformanceCounter();
             this.RamUsed = new System.Windows.Forms.Label();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.timer1.Start();
+            this.Timer = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -51,7 +50,7 @@
             this.LoadBtn.TabIndex = 0;
             this.LoadBtn.Text = "Load Database";
             this.LoadBtn.UseVisualStyleBackColor = true;
-            this.LoadBtn.Click += new System.EventHandler(this.button1_Click);
+            this.LoadBtn.Click += new System.EventHandler(this.SelectDbAction);
             // 
             // Status
             // 
@@ -62,7 +61,6 @@
             this.Status.Size = new System.Drawing.Size(321, 31);
             this.Status.TabIndex = 1;
             this.Status.Text = "no status, app not started";
-            this.Status.Click += new System.EventHandler(this.label1_Click);
             // 
             // Search
             // 
@@ -72,7 +70,6 @@
             this.Search.Name = "Search";
             this.Search.Size = new System.Drawing.Size(879, 20);
             this.Search.TabIndex = 2;
-            this.Search.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // SearchBtn
             // 
@@ -83,7 +80,7 @@
             this.SearchBtn.TabIndex = 3;
             this.SearchBtn.Text = "Search";
             this.SearchBtn.UseVisualStyleBackColor = true;
-            this.SearchBtn.Click += new System.EventHandler(this.button2_Click);
+            this.SearchBtn.Click += new System.EventHandler(this.SearchAction);
             // 
             // FileSelection
             // 
@@ -94,7 +91,7 @@
             this.FileSelection.Name = "FileSelection";
             this.FileSelection.Size = new System.Drawing.Size(879, 21);
             this.FileSelection.TabIndex = 4;
-            this.FileSelection.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.FileSelection.SelectedIndexChanged += new System.EventHandler(this.ComboBoxSelectAction);
             // 
             // Browser
             // 
@@ -117,7 +114,7 @@
             this.WikiBtn.TabIndex = 6;
             this.WikiBtn.Text = "Open Wiki";
             this.WikiBtn.UseVisualStyleBackColor = true;
-            this.WikiBtn.Click += new System.EventHandler(this.button3_Click);
+            this.WikiBtn.Click += new System.EventHandler(this.OpenWikiAction);
             // 
             // performanceCounter1
             // 
@@ -128,16 +125,17 @@
             // 
             this.RamUsed.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.RamUsed.AutoSize = true;
-            this.RamUsed.Location = new System.Drawing.Point(914, 9);
+            this.RamUsed.Location = new System.Drawing.Point(894, 9);
             this.RamUsed.Name = "RamUsed";
             this.RamUsed.Size = new System.Drawing.Size(58, 13);
             this.RamUsed.TabIndex = 7;
             this.RamUsed.Text = "no memory";
-            this.RamUsed.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.RamUsed.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // timer1
+            // Timer
             // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            this.Timer.Enabled = true;
+            this.Timer.Tick += new System.EventHandler(this.TimerTick);
             // 
             // Form
             // 
@@ -171,7 +169,7 @@
         public System.Windows.Forms.Button WikiBtn;
         public System.Diagnostics.PerformanceCounter performanceCounter1;
         public System.Windows.Forms.Label RamUsed;
-        public System.Windows.Forms.Timer timer1;
+        public System.Windows.Forms.Timer Timer;
     }
 }
 

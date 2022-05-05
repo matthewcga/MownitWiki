@@ -31,7 +31,6 @@ C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\obj\Debug\WikiIndexer.exe
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\obj\Debug\WikiIndexer.pdb
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\DecimalEx.dll
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\DecimalEx.xml
-C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\Dictionary\stemmedDictionary.txt
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\System.Text.Encodings.Web.dll
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\System.Text.Json.dll
@@ -40,3 +39,5 @@ C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\Microsoft.Bcl.AsyncI
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\System.Text.Encodings.Web.xml
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\System.Text.Json.xml
 C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\System.ValueTuple.xml
+C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\superuser\Desktop\MownitWiki\WikiIndexer\bin\Debug\NetSpell.SpellChecker.xml
