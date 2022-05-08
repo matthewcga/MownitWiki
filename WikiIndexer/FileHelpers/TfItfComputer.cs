@@ -111,23 +111,23 @@ namespace WikiIndexer.FileHelpers
             Helper.ValidateFolder(ref files);
             TF = new Dictionary<string, decimal>[FilesCount];
 
-            Console.Write($"{Program.Dir}\n\n1/4 computing TF-ITF ...\n");
+            Console.Write($"{Program.Dir}\n\n1/4 cleaning, stemming, computing TF[] ...\n");
 
             Stopwatch watch = Stopwatch.StartNew();
             ParseFiles(ref files);
             watch.Stop();
 
-            Console.Write($"\nfinished in {Helper.GetHours(ref watch)}!\n\n2/4 modifing ITF to its final form ...\n");
+            Console.Write($"\nfinished in {Helper.GetHours(ref watch)}!\n\n2/4 modifing ITF ...\n");
 
             LogITF();
 
-            Console.Write($"finished modifing ITF!\n\n3/4 converting TF[] to TF-ITF ...\n");
+            Console.Write($"finished!\n\n3/4 converting TF[] to TF-ITF ...\n");
 
             watch.Restart();
             FillTFITF(ref files);
             watch.Stop();
 
-            Console.Write($"\nfinished in {Helper.GetHours(ref watch)}!\n\n4/4 exporting database to .json ...\n");
+            Console.Write($"\nfinished in {Helper.GetHours(ref watch)}!\n\n4/4 exporting indexes to .json ...\n");
 
             watch.Restart();
             TfItfExporter.ExportSearchDb();
