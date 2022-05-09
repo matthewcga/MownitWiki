@@ -23,11 +23,9 @@ namespace WikiSearcher.Database
             List<string> keywords = StemSearch(search), results;
 
             foreach (string keyword in keywords)
-            {
                 SingleWordQuerry(keyword, ref resultsRanker);
-            }
 
-            results = resultsRanker.OrderBy(x => x.Value).Select(x => x.Key).ToList();
+            results = resultsRanker.OrderBy(x => x.Value).Where(x => x.Value >= keywords.Count()).Select(x => x.Key).ToList();
             sw.Stop();
             Program.ChangeStatus($"found {results.Count} results in {sw.Elapsed.TotalMilliseconds}ms");
             return results;
