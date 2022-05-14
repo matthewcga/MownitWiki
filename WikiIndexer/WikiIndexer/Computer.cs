@@ -17,7 +17,7 @@ namespace WikiIndexer
         /// <summary>
         ///     metoda oblicza ostateczną wartośc słowa w słowniku ITF równą ln( ilość plików / liczba wystąpień słowa)
         /// </summary>
-        public static void LogAndCleanITF(ref Dictionary<string, double> itf)
+        public static void LogAndCleanItf(ref Dictionary<string, double> itf)
         {
             foreach (var word in itf.Keys.ToList())
                 if (itf[word] >= Helper.MinAmountOfOccurrences && itf[word] <= Helper.MaxAmountOfOccurrences)
@@ -71,7 +71,7 @@ namespace WikiIndexer
 
             Console.Write($"\nfinished in {Helper.GetHours(ref watch)}!\n\n2/7 modifing ITF ...\n");
 
-            LogAndCleanITF(ref itf);
+            LogAndCleanItf(ref itf);
             BagOfWords = itf.Keys.ToArray();
 
             Console.Write("finished!\n\n3/7 converting TF[] to TF-ITF ...\n");

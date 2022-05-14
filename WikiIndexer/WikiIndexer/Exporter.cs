@@ -16,9 +16,10 @@ namespace WikiIndexer
         /// <summary>
         ///     Dodawanie słowa z słownika TF do bazy SearchDb
         /// </summary>
+        /// <param name="searchDb">skompresowana macierz</param>
         /// <param name="word">dodawane słowo</param>
         /// <param name="file">plik z którego pochodzi</param>
-        /// <param name="value">jego istotność TF-ITF</param>
+        /// <param name="value">istotność słowa</param>
         private static void AddToDict(ref Dictionary<string, SortedDictionary<double, List<string>>> searchDb,
             string word, string file, double value)
         {

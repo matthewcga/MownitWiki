@@ -30,19 +30,20 @@ namespace WikiIndexer
         ///     metoda odpowiada za wyczyszczenie i ostemowanie wszystkich plików
         /// </summary>
         /// <param name="files">ścieżki do plików</param>
+        /// <param name="tf">słowniki TF</param>
+        /// <param name="itf">słownik ITF</param>
         public static void ParseFiles(ref string[] files, ref Dictionary<string, double>[] tf,
             ref Dictionary<string, double> itf)
         {
             var i = 0;
             foreach (var file in files)
             {
-                var fileName = Path.GetFileNameWithoutExtension(file);
                 var content = File.ReadAllText(file);
                 CleanFile(ref content);
                 var words = new List<string>();
                 StemFile(ref content, ref words);
                 tf[i] = new Dictionary<string, double>();
-                ComputeTF(ref words, ref tf[i], ref itf);
+                ComputeTf(ref words, ref tf[i], ref itf);
 
                 i++;
                 Console.Write($"\r\t file: {i.ToString().PadLeft(Program.Width, ' ')}/{Program.FilesCount}");
@@ -55,7 +56,8 @@ namespace WikiIndexer
         /// </summary>
         /// <param name="words">lista słów z pliku (już po stemowaniu)</param>
         /// <param name="tf">uzupełniany słownik</param>
-        public static void ComputeTF(ref List<string> words, ref Dictionary<string, double> tf,
+        /// /// <param name="itf">słownik itf</param>
+        public static void ComputeTf(ref List<string> words, ref Dictionary<string, double> tf,
             ref Dictionary<string, double> itf)
         {
             foreach (var word in words)

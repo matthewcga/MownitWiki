@@ -65,7 +65,7 @@ namespace WikiIndexer
         ///     im większa tym mniej zostanie skompresowana macierz SVD (100% raw, 0% very compressed)
         ///     oznacza, że waga wartości z wektora musi stanowić conajmniej zadeklarowaną poniżej wartości najwyższej
         /// </summary>
-        public static readonly double SVDCompressionRate = 0.99d;
+        public static readonly double SvdCompressionRate = 0.99d;
 
         #endregion
     }
