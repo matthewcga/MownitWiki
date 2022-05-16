@@ -39,6 +39,7 @@
             this.performanceCounter1 = new System.Diagnostics.PerformanceCounter();
             this.RamUsed = new System.Windows.Forms.Label();
             this.Timer = new System.Windows.Forms.Timer(this.components);
+            this.CheckBox = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -137,11 +138,22 @@
             this.Timer.Enabled = true;
             this.Timer.Tick += new System.EventHandler(this.TimerTick);
             // 
+            // CheckBox
+            // 
+            this.CheckBox.AutoSize = true;
+            this.CheckBox.Location = new System.Drawing.Point(136, 50);
+            this.CheckBox.Name = "CheckBox";
+            this.CheckBox.Size = new System.Drawing.Size(70, 17);
+            this.CheckBox.TabIndex = 8;
+            this.CheckBox.Text = "with SVD";
+            this.CheckBox.UseVisualStyleBackColor = true;
+            // 
             // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(984, 561);
+            this.Controls.Add(this.CheckBox);
             this.Controls.Add(this.RamUsed);
             this.Controls.Add(this.WikiBtn);
             this.Controls.Add(this.Browser);
@@ -170,6 +182,7 @@
         public System.Diagnostics.PerformanceCounter performanceCounter1;
         public System.Windows.Forms.Label RamUsed;
         public System.Windows.Forms.Timer Timer;
+        public System.Windows.Forms.CheckBox CheckBox;
     }
 }
 

@@ -17,7 +17,7 @@ namespace WikiSearcher
             if (folderBrowserDialog.ShowDialog() == DialogResult.OK)
             {
                 Program.Dir = folderBrowserDialog.SelectedPath;
-                DbManager.GetDbFromFile(Program.Dir);
+                DbManager.GetDbFromFile(Program.Dir, Program.VM.CheckBox.Checked);
             }
         }
 

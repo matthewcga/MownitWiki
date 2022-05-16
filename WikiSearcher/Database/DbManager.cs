@@ -60,9 +60,10 @@ namespace WikiSearcher.Database
         }
 
 
-        public static void GetDbFromFile(string dir)
+        public static void GetDbFromFile(string dir, bool withSvd)
         {
-            string path = $"{dir}\\database.json", linksPath = $"{dir}\\links.json";
+            string name = withSvd ? "database" : "databaseSVD";
+            string path = $"{dir}\\{name}.json", linksPath = $"{dir}\\links.json";
 
             if (!ValidateFolder(ref path, ref linksPath)) return;
 

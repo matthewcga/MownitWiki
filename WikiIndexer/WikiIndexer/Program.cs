@@ -30,8 +30,9 @@ namespace WikiIndexer
 
                 var watch = Stopwatch.StartNew();
                 var matrix = Computer.ComputeMatrix(ref files);
+                Exporter.ExportMatrix(ref matrix, ref files, false);
                 Compressor.CompressMatrix(ref matrix);
-                Exporter.ExportMatrix(ref matrix, ref files);
+                Exporter.ExportMatrix(ref matrix, ref files, true);
                 watch.Stop();
 
                 Console.WriteLine($"\n\nfinished everything in {Helper.GetHours(ref watch)}!");
